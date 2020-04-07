@@ -1,0 +1,63 @@
+.logo{
+    width: 130px;
+}
+img{
+    width: 100%;
+}
+.container{
+    margin-bottom: 60px;
+}
+body{
+    font-family: monospace;
+}
+.slider h1{
+    color: black;
+    font-size: 35px;
+    font-weight: 600px;
+    text-transform: uppercase;
+
+}
+p{
+    color: gray;
+    font-size: 17px;
+}
+.slider-content{
+    height: 400px;
+}
+.header h3{
+color: black;
+}
+.see-all a{
+    color: orange;
+    font-size: 17px;
+
+}
+.card{
+    padding: 10px;
+    box-shadow: 2px 2px 5px 1px grey;
+    text-align: center;
+    border-radius: 10px;
+}
+.card-deck{
+    padding: 20px;
+}
+.phone{
+    padding: 5px;
+    
+    background-color: gray;
+}
+.footer{
+    padding: 20px;
+    box-shadow: 2px 2px 5px 1px grey;
+    border-radius: 4px 11px 0px 11px;
+    margin-bottom: 15px;
+}
+.cheader h2{
+    margin-bottom: 100px;
+    border-bottom: 4px solid orange;
+    padding: 10px;
+}
+li a{
+    font-size: 17px;
+   font-family: sans-serif;
+   padding: 0px 10px 0px 10px;
